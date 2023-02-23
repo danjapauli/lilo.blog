@@ -1,8 +1,9 @@
 +++
 title = "About me"
 draft = false
-description = ""
 image = ""
+description = "Hey ih heisse Danja"
+footnotes = ":)"
 +++
 ![](/img/default-author.jpg)
 
