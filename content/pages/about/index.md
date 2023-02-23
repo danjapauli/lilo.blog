@@ -5,10 +5,8 @@ image = ""
 description = "Hey ih heisse Danja"
 footnotes = ":)"
 +++
-![](/img/default-author.jpg)
+## Danja
 
-## My Name
+## mail@example.org
 
-mail@example.org
-
-Here should be some info about me...
+Hallooooo ih hoffe es geit öich aune guet!
