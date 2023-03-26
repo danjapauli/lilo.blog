@@ -3,11 +3,12 @@ title = "\"Ich konnte damals noch sprechen\""
 date = "2023-03-26"
 draft = false
 pinned = false
-description = "Wenn die Sprache auf einmal weg ist. Für viele vermutlich unvorstellbar. Doch diese Erfahrung musste der 75-Jährige Bruno Capelli machen. Es ist ein Interview, in dem er uns von seinen Erfahrungen, Schwierigkeiten und Fortschritten seines Sprachverlustes erzählt.\n"
+image = "bruno-capelli.jpg"
+description = "\n"
 +++
-
-
 <!--StartFragment-->
+
+Wenn die Sprache auf einmal weg ist. Für viele vermutlich unvorstellbar. Doch diese Erfahrung musste der 75-Jährige Bruno Capelli machen. Es ist ein Interview, in dem er uns von seinen Erfahrungen, Schwierigkeiten und Fortschritten seines Sprachverlustes erzählt.
 
 *Bruno Capelli ist 75-Jahre alt und kommt aus Burgdorf. Früher war er Gymnasiallehrer und arbeitete 22 Jahre alt Diplomat. Die Sprache spielte in seinem Leben eine sehr grosse Rolle. Im Mai 2022 hat er einen Schlaganfall und verliert die Sprache und das Schreiben.*
 
@@ -29,11 +30,7 @@ Nein eigentlich nicht. Ich weiss auch nicht wieso. Also ich habe Italienisch und
 
 Ja, definitiv. Das ist ein wichtiger Punkt. Es ist für mich deutlich einfacher in direkter At zu kommunizieren als über das Telefon oder über E-Mail und Nachrichten. Denn bei der direkten Kommunikation kann man etwas noch zusätzlich mit einer geste unterstreichen. Und beim Telefon fehlt das. Aber was bis jetzt sehr geholfen hat, war, dass ich SMS geschrieben habe. Am Anfang sehr rudimentär und mit vielen Fehlern, aber mit der Zeit wird es immer besser.
 
-
-
 > Auch wenn es nie wieder so wird wie früher, der Kontakt mit SMS hat mir sehr geholfen.
-
-
 
 **Was waren das Schwierigkeiten, die sie beim kommunizieren hatten?**
 
@@ -43,11 +40,7 @@ Es ist vor allem Wörter vertauschen und vergessen. Also dass ich zum Beispiel �
 
 Das war sehr hart gewesen. Denn ich habe Lektionen an der Volkshochschule gegeben und das auch sehr gerne gemacht. Ich habe Geschichte studiert und auch immer Geschichten erzählt und mitgeteilt. Auch Reisen, wie nach Wien und Rom und so weiter, all das war nicht mehr möglich. Es war auch schwer, dass ich mit meinen Kollegen von der Botschaft nicht mehr politisieren konnte auf dem Posten. Denn das haben wir vorher sehr oft gemacht. Und das, das war wirklich sehr hart. Hart für Sie aber vor allem auch für mich.
 
-
-
 > Es war hart, ich konnte einfach nicht mehr argumentieren.
-
-
 
 **Gab es durch den Sprachverlust auch Veränderungen in Ihrem sozialen Umfeld?**
 
@@ -59,11 +52,7 @@ Meine Familie hat gut darauf reagiert. Aber wie gesagt, all die Diskussionen hab
 
 **Was war für Sie das Schlimmste an dem Sprachverlust?**
 
-
-
 > Das Schlimmste war für mich, dass ich nicht mehr lesen konnte.
-
-
 
 Ich habe früher regelmässig zwei Zeitungen am Tag gelesen, doch dies ging plötzlich einfach nicht mehr. Das war das Härteste für mich. Auch Bücher lesen ging nicht mehr und ist bis heute sehr schwer.
 
@@ -75,17 +64,11 @@ Ja. Ich habe immer Klavier gespielt, das kann und konnte ich noch. Die Finger wa
 
 Ich habe wieder ein wenig zurückgefunden, ja. Nicht zuletzt auch durch die Logopädie. Die hilft mir sehr gut und ich gehe auch gerne hin. Besonders erfreut bin ich darüber, dass ich wieder Zeitung lesen kann. Denn das ist vorher einfach nicht mehr möglich gewesen für mich.
 
-
-
 > Ich geniesse es, eine Zeitung zu lesen und dazu eine Pfeife zu rauchen.
-
- 
 
 **Welche Folgen des Sprachverlustes begleiten Sie bis heute?**
 
 Das ich mich nicht mehr so lange konzentrieren kann. Das vermisse ich wirklich. Denn in einem solchen Fall ist man sehr schnell müde und mag nicht mehr. Und das ist für mich fast das unangenehmste. Vorher in der Logopädie haben wir einen Test gemacht bei dem es darum ging zu schauen, ob ich Fortschritte gemacht habe. Und nach einer halben Stunde ist praktisch keine Konzentration mehr da. Da das Reden, Schreiben, Lesen und Verstehen so viel Energie und Konzentration fordern.
-
- 
 
 *Trotz des Schicksalsschlages und des Sprachverlustes hat sich Bruno Capelli zurück gekämpft und schon viele Fortschritte gemacht.*  
 
