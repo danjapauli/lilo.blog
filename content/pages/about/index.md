@@ -2,7 +2,7 @@
 title = "About me"
 draft = false
 image = ""
-description = "Ich bin Danja und bin 17 Jahre alt. "
+description = ""
 footnotes = ""
 +++
 ## Danja Pauli
