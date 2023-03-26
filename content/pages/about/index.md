@@ -2,11 +2,9 @@
 title = "About me"
 draft = false
 image = ""
-description = "Hey ih heisse Danja"
-footnotes = ":)"
+description = "Ich bin Danja und bin 17 Jahre alt. "
+footnotes = ""
 +++
-## Danja
+## Danja Pauli
 
-## mail@example.org
-
-Hallooooo ih hoffe es geit öich aune guet!
+danja.pauli@stud.muristalden.ch
