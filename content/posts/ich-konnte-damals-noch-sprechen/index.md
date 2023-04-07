@@ -8,11 +8,9 @@ description = "\n"
 +++
 Wenn die Sprache auf einmal weg ist. Für viele vermutlich unvorstellbar. Doch diese Erfahrung musste der 75-Jährige Bruno Capelli machen. Es ist ein Interview, in dem er uns von seinen Erfahrungen, Schwierigkeiten und Fortschritten seines Sprachverlustes erzählt.
 
-![Bruno Capelli | GMS | Schweizerische Gesellschaft für militärhistorische  Studienreisen](https://www.gms-reisen.ch/wp-content/uploads/Bruno-Capelli-gruen.jpg)*Bruno Capelli ist 75-Jahre alt und kommt aus Burgdorf. Früher war er Gymnasiallehrer und arbeitete 22 Jahre alt Diplomat. Die Sprache spielte in seinem Leben eine sehr grosse Rolle. Im Mai 2022 hat er einen Schlaganfall und verliert die Sprache und das Schreiben.*
+![Alter Mann Von Hinten - Bilder und Stockfotos - iStock](https://media.istockphoto.com/id/653922004/de/foto/r%C3%BCckansicht-des-%C3%A4lteren-mann-mit-h%C3%A4nden-gekreuzt.jpg?s=612x612&w=0&k=20&c=hdGmLe57_X7zREqZIu_YMCNIL0kI9peewMw8glT3MmQ=)
 
-
-
-
+*Bruno Capelli ist 75-Jahre alt und kommt aus Burgdorf. Früher war er Gymnasiallehrer und arbeitete 22 Jahre alt Diplomat. Die Sprache spielte in seinem Leben eine sehr grosse Rolle. Im Mai 2022 hat er einen Schlaganfall und verliert die Sprache und das Schreiben. (Hinweis: Bei der Person auf dem Bild handelt es sich nicht um Bruno Capelli)* 
 
 **Was für eine Sprachbeeinträchtigung haben Sie?**             
 
