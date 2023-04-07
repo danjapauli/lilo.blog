@@ -3,7 +3,7 @@ title = "\"Ich konnte damals noch sprechen\""
 date = "2023-03-26"
 draft = false
 pinned = false
-image = "bruno-capelli.jpg"
+image = "alter-mann.jpg"
 description = "\n"
 +++
 Wenn die Sprache auf einmal weg ist. Für viele vermutlich unvorstellbar. Doch diese Erfahrung musste der 75-Jährige Bruno Capelli machen. Es ist ein Interview, in dem er uns von seinen Erfahrungen, Schwierigkeiten und Fortschritten seines Sprachverlustes erzählt.
