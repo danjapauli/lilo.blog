@@ -9,11 +9,7 @@ image = "alter-mann.jpg"
 
 ![Alter Mann von hinten - Bilder und Stockfotos - iStock](alter-mann.jpg)
 
-
-
 *Bruno Capelli ist 75 Jahre alt und kommt aus Burgdorf. Früher war er Gymnasiallehrer und arbeitete 22 Jahre als Diplomat. Die Sprache spielte in seinem Leben eine sehr grosse Rolle. Im Mai 2022 hat er einen Schlaganfall und verliert die Sprache und das Schreiben.*
-
-
 
 ### Doch was, wenn morgen alles anders ist?
 
@@ -25,7 +21,11 @@ Im Interview erzählt Herr Capelli, dass er früher Geschichtslehrer und Diploma
 
 Durch den Schicksalsschlag ging mit der Sprache auch die Schrift verloren. Dies ist aber nicht automatisch immer der Fall.
 
-In der Schweiz erleiden jährlich zirka 16'000 Menschen einen Schlaganfall. Viele der davon Betroffenen Personen haben nach dem Schlaganfall Schwierigkeiten, die Sprache so zu brauchen wie vorher. Mühe, die Wörter zu finden, und Schwierigkeiten, die Sprache zu verstehen, sind dabei sehr oft Begleiter. Weiter können zudem Probleme im Lesen und Schreiben auftreten. In einigen Fällen sind diese Symptome nur sehr dezent ausgeprägt und in anderen handelt es sich um einen totalen Verlust. Dies wird mit dem Fachbegriff "Aphasie" bezeichnet und bedeutet "Sprachverlust".
+{{<box>}}
+
+In der Schweiz erleiden jährlich zirka 16'000 Menschen einen Schlaganfall. Viele der davon Betroffenen Personen haben nach dem Schlaganfall Schwierigkeiten, die Sprache so zu brauchen wie vorher. Mühe, die Wörter zu finden, und Schwierigkeiten, die Sprache zu verstehen, sind dabei sehr oft Begleiter. Weiter können zudem Probleme im Lesen un.d Schreiben auftreten. In einigen Fällen sind diese Symptome nur sehr dezent ausgeprägt und in anderen handelt es sich um einen totalen Verlust. Dies wird mit dem Fachbegriff "Aphasie" bezeichnet und bedeutet "Sprachverlust".
+
+{{<box>}}
 
 ### Es ging einfach nicht mehr
 
@@ -47,7 +47,7 @@ erklärt er gestikulierend. Trotzdem hat ihm das Schreiben geholfen, berichtet H
 
 > "Aber was bis jetzt sehr geholfen hat, war, dass ich SMS geschrieben habe. Am Anfang sehr rudimentär und mit vielen Fehlern, aber mit der Zeit wird es immer besser."
 
-### Das Klavierspielen gibt ihm Kraft 
+### Das Klavierspielen gibt ihm Kraft
 
 Trotz all den Dingen die nicht mehr gingen hat er etwas gefunden, dass ihm in dieser Zeit die hilft und teilweise vielleicht auch ein wenig ersetzen kann. Es ist das Klavierspielen. "Das Klavierspielen. Die Finger waren noch flexibel. Das ich Klavier spielen kann hilft mir. Es gibt mir Trost." Doch auch die Logopädie, welche Herr Capelli regelmässig besucht hilft ihm viel.
 
