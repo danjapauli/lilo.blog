@@ -5,7 +5,9 @@ draft = false
 pinned = false
 image = "alter-mann.jpg"
 +++
-**Wenn die Sprache auf einmal weg ist. Für viele vermutlich unvorstellbar. Doch diese Erfahrung musste der 75-Jährige Bruno Capelli machen. Es ist ein Interview, in dem er uns von seinen Erfahrungen, Schwierigkeiten und Fortschritten seines Sprachverlustes erzählt.**
+{{<lead>}}**Wenn die Sprache auf einmal weg ist. Für viele vermutlich unvorstellbar. Doch diese Erfahrung musste der 75-Jährige Bruno Capelli machen. Es ist ein Interview, in dem er uns von seinen Erfahrungen, Schwierigkeiten und Fortschritten seines Sprachverlustes erzählt.**{{</lead>}}
+
+
 
 ![Alter Mann von hinten - Bilder und Stockfotos - iStock](alter-mann.jpg)
 
