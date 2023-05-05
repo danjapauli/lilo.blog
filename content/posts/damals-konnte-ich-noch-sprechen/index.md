@@ -21,9 +21,7 @@ Im Interview erzählt Herr Capelli, dass er früher Geschichtslehrer und Diploma
 
 Durch den Schicksalsschlag ging mit der Sprache auch die Schrift verloren. Dies ist aber nicht automatisch immer der Fall.
 
-{{<box>}}
-
-In der Schweiz erleiden jährlich zirka 16'000 Menschen einen Schlaganfall. Viele der davon Betroffenen Personen haben nach dem Schlaganfall Schwierigkeiten, die Sprache so zu brauchen wie vorher. Mühe, die Wörter zu finden, und Schwierigkeiten, die Sprache zu verstehen, sind dabei sehr oft Begleiter. Weiter können zudem Probleme im Lesen un.d Schreiben auftreten. In einigen Fällen sind diese Symptome nur sehr dezent ausgeprägt und in anderen handelt es sich um einen totalen Verlust. Dies wird mit dem Fachbegriff "Aphasie" bezeichnet und bedeutet "Sprachverlust".
+{{<box>}}In der Schweiz erleiden jährlich zirka 16'000 Menschen einen Schlaganfall. Viele der davon Betroffenen Personen haben nach dem Schlaganfall Schwierigkeiten, die Sprache so zu brauchen wie vorher. Mühe die Wörter zu finden, Schwierigkeiten die Sprache zu verstehen sind dabei sehr oft Begleiter. Weiter können zudem Probleme im Lesen und Schreiben auftreten. In einigen Fällen sind diese Symptome nur sehr dezent ausgeprägt und in anderen handelt es sich um einen totalen Verlust. Dies wird mit dem Fachbegriff «Aphasie» bezeichnet und bedeutet «Sprachverlust».{{</box>}}
 
 ### Es ging einfach nicht mehr
 
