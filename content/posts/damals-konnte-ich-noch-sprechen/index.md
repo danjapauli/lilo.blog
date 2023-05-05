@@ -5,7 +5,7 @@ draft = false
 pinned = false
 image = "alter-mann.jpg"
 +++
-{{<lead>}}**Wenn die Sprache auf einmal weg ist. Für viele vermutlich unvorstellbar. Doch diese Erfahrung musste der 75-Jährige Bruno Capelli machen. Es ist ein Interview, in dem er uns von seinen Erfahrungen, Schwierigkeiten und Fortschritten seines Sprachverlustes erzählt.**{{</lead>}}
+{{<lead>}}**Wenn die Sprache auf einmal weg ist. Für viele vermutlich unvorstellbar. Doch diese Erfahrung musste der 75-Jährige Bruno Capelli machen. Es ist ein Interview, in dem er uns von seinen Erfahrungen, Schwierigkeiten und Fortschritten während und nach dem Schlaganfall erzählt.**{{</lead>}}
 
 
 
@@ -23,7 +23,7 @@ Im Interview erzählt Herr Capelli, dass er früher Geschichtslehrer und Diploma
 
 Durch den Schicksalsschlag ging mit der Sprache auch die Schrift verloren. Dies ist aber nicht automatisch immer der Fall.
 
-{{<box>}}In der Schweiz erleiden jährlich zirka 16'000 Menschen einen Schlaganfall. Viele der davon Betroffenen Personen haben nach dem Schlaganfall Schwierigkeiten, die Sprache so zu brauchen wie vorher. Mühe die Wörter zu finden, Schwierigkeiten die Sprache zu verstehen sind dabei sehr oft Begleiter. Weiter können zudem Probleme im Lesen und Schreiben auftreten. In einigen Fällen sind diese Symptome nur sehr dezent ausgeprägt und in anderen handelt es sich um einen totalen Verlust. Dies wird mit dem Fachbegriff «Aphasie» bezeichnet und bedeutet «Sprachverlust».{{</box>}}
+{{<box>}}In der Schweiz erleiden jährlich zirka 16'000 Menschen einen Schlaganfall. Viele der davon Betroffenen haben nach dem Schlaganfall Schwierigkeiten, die Sprache so zu brauchen wie vorher. Mühe die Wörter zu finden, Schwierigkeiten die Sprache zu verstehen sind dabei sehr oft Begleiter. Weiter können zudem Probleme im Lesen und Schreiben auftreten. In einigen Fällen sind diese Symptome nur sehr dezent ausgeprägt und in anderen handelt es sich um einen totalen Verlust. Dies wird mit dem Fachbegriff «Aphasie» bezeichnet und bedeutet «Sprachverlust».{{</box>}}
 
 ### Es ging einfach nicht mehr
 
@@ -31,7 +31,7 @@ Herr Capelli erzählte früher immer gerne Geschichten und las Zeitung. Doch nac
 
 > "Ich habe Italienisch und Französisch mit meinen Kindern gesprochen, aber das kommt nicht. Stattdessen habe ich Schriftdeutsch gesprochen."
 
-Als Folge des Schlaganfalls, vertauscht und vergisst er oft Wörter. Was dazu führt, dass die Sätze einen ganz anderen Sinn bekommen. Das macht das Kommunizieren schwierig und beeinflusst vor allem auch andere Lebensbereiche der davon betroffenen Person. Die verworrenen Wortketten ist eines der typischen Merkmale einer Aphasie. 
+Als Folge des Schlaganfalls, vertauscht und vergisst er oft Wörter. Was dazu führt, dass die Sätze einen ganz anderen Sinn bekommen. Das macht das Kommunizieren schwierig und beeinflusst vor allem auch andere Lebensbereiche der davon betroffenen Person. Die verworrenen Wortketten sind eines der typischen Merkmale einer Aphasie. 
 
 Der Verlust seiner Sprache ist sehr hart für Herr Capelli. Denn er gab Lektionen an der Volksschule und tat dies auch sehr gerne. Auch Reisen wie nach Wien und Rom, all das war nicht mehr möglich. Auch berichtet er, dass es ihm schwer fällt, dass er mit seinen Kollegen von der Botschaft nicht mehr politisieren kann. Das ist für Ihn eines der härtesten Dinge. 
 
@@ -47,7 +47,11 @@ erklärt er gestikulierend. Trotzdem hat ihm das Schreiben geholfen, berichtet H
 
 ### Das Klavierspielen gibt ihm Kraft
 
-Trotz all den Dingen die nicht mehr gingen hat er etwas gefunden, dass ihm in dieser Zeit die hilft und teilweise vielleicht auch ein wenig ersetzen kann. Es ist das Klavierspielen. "Das Klavierspielen. Die Finger waren noch flexibel. Das ich Klavier spielen kann hilft mir. Es gibt mir Trost." Doch auch die Logopädie, welche Herr Capelli regelmässig besucht hilft ihm viel.
+Trotz all den Dingen die nicht mehr gingen, hat er etwas gefunden, dass ihm in dieser Zeit hilft. Das Klavierspielen. 
+
+> "Die Finger waren noch flexibel. Das ich Klavier spielen kann hilft mir. Es gibt mir Trost."
+
+Doch auch die Logopädie, welche Herr Capelli regelmässig besucht hilft ihm viel.
 
 ### Die positive Einstellung hilft
 
