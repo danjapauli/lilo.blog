@@ -17,7 +17,6 @@ Es hat doch überall andere, andere so wie ich, sie können die Dinge alle, sie 
 Mache ich etwas falsch? Mache ich etwas anders?\
 Ich weiss es nicht, früher war doch alles noch gut.
 
-Irgendwie bin ich verloren gegangen in dem Menschen.\
-In einer Welt in der sich vieles nur noch um Materielle Dinge und Oberflächlichkeit dreht.\
-Ich bin das verlorene Selbstwertgefühl.\
-Bin ich gut genug?
+Irgendwie bin ich verloren gegangen in einem Menschen.\
+Lebend in einer Welt in der sich vieles nur noch um Materielle Dinge und Oberflächlichkeit dreht.\
+Bin ich gut genug um das Selbstwertgefühl zu sein?
