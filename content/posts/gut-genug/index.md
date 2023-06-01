@@ -46,6 +46,6 @@ Ich weiss es nicht, früher war doch alles noch gut. So unbeschwert, so unüberl
 
 Irgendwie bin ich verloren gegangen in einem Menschen.
 
-Lebend in einer Welt in der ich mich mit jedem und allem vergleiche und in der n sich vieles nur noch um Materielle Dinge und Oberflächlichkeit dreht.
+Lebend in einer Welt in der sich vieles nur noch um Materielle Dinge und Oberflächlichkeit dreht.
 
 Bin ich noch gut genug um das Selbstwertgefühl zu sein.
