@@ -9,8 +9,6 @@ image = "alter-mann.jpg"
 
 ![Alter Mann von hinten (nicht Bruno Capelli) *Bruno Capelli ist 75 Jahre alt und kommt aus Burgdorf. Früher war er Gymnasiallehrer und arbeitete 22 Jahre als Diplomat. Die Sprache spielte in seinem Leben eine sehr grosse Rolle. Im Mai 2022 hat er einen Schlaganfall und verliert die Sprache und das Schreiben.*](alter-mann.jpg)
 
-*Bruno Capelli ist 75 Jahre alt und kommt aus Burgdorf. Früher war er Gymnasiallehrer und arbeitete 22 Jahre als Diplomat. Die Sprache spielte in seinem Leben eine sehr grosse Rolle. Im Mai 2022 hat er einen Schlaganfall und verliert die Sprache und das Schreiben.*
-
 ### Doch was, wenn morgen alles anders ist?
 
 Es ist ein gewöhnlicher Montagmorgen und die Sonne scheint frühlingshaft. In einem kleinen Kaffee mitten in Bern ist es ruhig, aber dennoch belebt. Es riecht nach Kaffee und Backwaren und das warme Licht erhellt den Raum auf eine natürliche Weise. Grosseltern mit ihren Enkelkindern, Arbeitskräften, die Ihre Pause verbringen, und Leuten, die gemütlich die tägliche Zeitung lesen, alles ist dabei. Auch Bruno Capelli las früher gerne und viel Zeitung. Bis zu diesem einen Morgen, an dem sein Leben einen ganz anderen Lauf nimmt.
