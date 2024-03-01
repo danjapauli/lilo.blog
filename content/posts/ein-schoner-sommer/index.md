@@ -1,5 +1,5 @@
 +++
-title = "Ein schöner Sommer"
+title = "Ein schöner Sommertag"
 date = "2024-02-29"
 draft = false
 pinned = false
